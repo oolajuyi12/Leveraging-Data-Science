@@ -60,5 +60,5 @@ Explore the complete project on GitHub and feel free to contribute or raise issu
 ________________________________________
 **Connect with Me**
 •	LinkedIn: Olanrewaju James Olajuyi [Connect with me on LinkedIn](https://www.linkedin.com/in/olanrewaju-james-olajuyi-9273b6b5/)
-•	GitHub: Leveraging-Data-Science
+•	GitHub: https://github.com/oolajuyi12/Leveraging-Data-Science 
 
