@@ -1,2 +1,3 @@
 # Leveraging Data Science for Predictive Monetary Insights: A Comprehensive Analysis of Risk, Fraud, and Customer Segmentation in the Canadian Banking Sector
 Leveraging Data Science for Predictive Monetary Insights: This project uses data science techniques to derive predictive monetary insights through analysis, visualization, and modeling. Features include a Jupyter Notebook, EDA to identify trends, predictive models, and visualizations for effective communication.
+"For this project, I leveraged the publicly available Finance Data dataset from Kaggle. Check out the dataset here: Kaggle Dataset Link. "https://1drv.ms/x/c/33194ddcc6fa718f/EbajjdnY4JVPry_oUjRuV8IBIPLBJ3Z2y0lZ1Ze40m-ETw?e=p1QQ9A 
